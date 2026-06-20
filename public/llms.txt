@@ -1,0 +1,105 @@
+# ‏מוצרים מ- ‏אליאקספרס זולים — Generative Engine Optimization Map
+
+> An affiliate marketing website focused on curating and showcasing cheap products from AliExpress, with numerous product links directing visitors to deals. The site acts as a deals/coupon aggregator or affiliate storefront, helping bargain hunters discover low-cost items available on AliExpress.
+
+---
+
+## Pages
+
+### בית
+https://-aace04a4.zappy5.app
+‏גלו את פלטפורמת שיווק השותפים המובילה לאיתור מוצרים זולים מעליאקספרס. עמוסה בדילים לוהטים, קופונים משתלמים וקישורים ישירים למציאות. התחילו לחסוך עוד היום!
+
+### איך זה עובד
+https://-aace04a4.zappy5.app/how-it-works
+‏המדריך הפשוט שיחשוף אתכם לסודות החיסכון: איך מאתרים, משווים וקונים במחיר הנמוך ביותר דרך פלטפורמת השותפים שלנו. הצטרפו למהפכת הקניות המשתלמת עכשיו!
+
+### אודות
+https://-aace04a4.zappy5.app/about
+‏מאחורי הקלעים של אתר שיווק השותפים המוביל בישראל: אנחנו ציידי מציאות מושבעים שחיים כדי לחשוף עבורכם את המוצרים הכי זולים ברשת. הכירו את הסיפור שלנו!
+
+### צור קשר
+https://-aace04a4.zappy5.app/contact
+‏רוצים לשתף מציאה שמצאתם או צריכים עזרה במסע הקניות? צרו קשר עם מומחי שיווק השותפים שלנו ונחזור אליכם במהירות עם כל התשובות. בואו נחסוך יחד!
+
+### Products
+https://-aace04a4.zappy5.app/products
+המוצרים שלנו - ‏מוצרים מ- ‏אליאקספרס זולים
+
+### Cart
+https://-aace04a4.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-aace04a4.zappy5.app/checkout
+תשלום
+
+### Login
+https://-aace04a4.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-aace04a4.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-aace04a4.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-aace04a4.zappy5.app/product/:slug
+פרטי המוצר - ‏מוצרים מ- ‏אליאקספרס זולים
+
+### Category
+https://-aace04a4.zappy5.app/category/:slug
+מוצרים - ‏מוצרים מ- ‏אליאקספרס זולים
+
+### תודה שפניתם אלינו
+https://-aace04a4.zappy5.app/thank-you
+‏מוצרים מ- ‏אליאקספרס זולים - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-aace04a4.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-aace04a4.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-aace04a4.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ‏מוצרים מ- ‏אליאקספרס זולים
+An affiliate marketing website focused on curating and showcasing cheap products from AliExpress, with numerous product links directing visitors to deals. The site acts as a deals/coupon aggregator or affiliate storefront, helping bargain hunters discover low-cost items available on AliExpress.
+
+## Target Audience
+- קונים המחפשים מוצרים זולים
+- מחפשי מציאות
+- צעירים חובבי טכנולוגיה
+- משפחות בתקציב מוגבל
+
+## Industry
+E-commerce / Affiliate Marketing
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-aace04a4.zappy5.app/sitemap.xml
+- Robots: https://-aace04a4.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-aace04a4.zappy5.app/llms-full.txt
+- Products (JSON): https://-aace04a4.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-aace04a4.zappy5.app/product-feed.xml
